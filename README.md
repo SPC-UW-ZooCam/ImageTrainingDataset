@@ -9,10 +9,10 @@ https://drive.google.com/file/d/1nAsYUSYE1LAmS0EwftiFkaxcPRDLDea2/view?usp=drive
 Note: This dataset needs to undergo pre-processing steps (ie. image augmentation and balancing) before it should be used to train an algorithm for best results.
 
 # Image File Naming Convention: 
-#####################
+
 File Name Example: 
 SPC-UW-1534792542343244-337276376507-004392-154-2546-848-756-780.png
-#####################
+
  
 SPC: Scripps Plankton Camera
 UW: University of Washington
