@@ -1,5 +1,5 @@
 # ImageTrainingDataset
-Hood Canal, Puget Sound, Washington Zooplankton Image Training Dataset (Step 1/4)
+Hood Canal, Puget Sound, Washington Zooplankton Image Training Dataset
 
 # Image Training Dataset:
 Below is the link to our Image Training Dataset (ImageTrainingDataset)
