@@ -70,6 +70,6 @@ Larvacea - (Oikopleura dioica)
 Pteropoda - (Clione limacina)  
 Pteropoda - (Limacina helicina)  
 
-# List of “class_names” for use in Image_Classification.py (line 87)   
+# List of “class_names” for use in Image_Classification.py (line 90)   
 
 ['Anthomedusae - (Euphysa tentaculata)', 'Calanoida - (Acartia spp.)', 'Calanoida - (Calanus sp.)', 'Calanoida - (Centropages abdominalis)', 'Calanoida - (Metridia spp.)', 'Calanoida - (Psudo Micro Para)', 'Chaetognatha', 'ClusteredSnow', 'Copepoda - (nauplii)', 'Cyclopoida - (Oithona spp.)', 'Cydippida - (Euplokamis dunlapae)', 'Cydippida - (Pleurobrachia bachei)', 'Cydippida - (Unknown)', 'Cyphocaridae - (Cyphocaris challengeri)', 'Decapoda - Caridea (Shrimp)', 'Diatoms', 'Dinoflagellata - (Noctiluca)', 'Eggs', 'Euphausiacea - Euphausiidae (Krill)', 'Filament_Filaments', 'Fish_larvae', 'Gammeridea- (possibly Calliopius sp)', 'Harpacticoida - (Microsetella rosea)', 'Hyperiidea - (Themisto pacifica _ Hyperoche sp.)', 'Larvacea - (Oikopleura dioica)', 'Lobata', 'MarineSnow', 'Ostracoda - (Halocyprididae)', 'Poecilostomatoida - (Ditrichocoryceaus anglicus)', 'Poecilostomatoida - (Triconia spp.)', 'Pteropoda - (Clione limacina)', 'Pteropoda - (Limacina helicina)', 'Siphonophore - Calycophorae (Muggiaea atlantica)', 'Trachymedusae - (Aglantha digitale)', 'Trachymedusae - (Pantachogon haeckeli)', 'Trachymedusae - (young)', 'Unknown']
